@@ -35,3 +35,23 @@ git push -u origin master
 cd ..
 ```
 
+### Publications
+
+## Import from BibTeX
+
+Python must be installed into the system, then install academic from pip.
+
+```console
+pip3 install -U academic
+```
+
+Use the cd command to navigate to your website folder in the terminal.
+
+Then import your publications with:
+
+```console
+academic import --bibtex <path_to_your/publications.bib>
+```
+
+
+

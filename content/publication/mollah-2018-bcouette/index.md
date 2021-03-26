@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: ' Couette Flow of Bingham Fluid with Ion-slip and Hall Current'
+title: Couette Flow of Bingham Fluid with Ion-slip and Hall Current
 subtitle: ''
 summary: ''
 authors:
@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2018-01-01'
-lastmod: 2021-03-25T19:55:31+01:00
+lastmod: 2021-03-26T22:38:35+01:00
 featured: false
 draft: false
 
@@ -29,9 +29,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-25T18:55:31.439567Z'
+publishDate: '2021-03-26T21:38:35.528353Z'
 publication_types:
 - '5'
 abstract: ''
-publication: '* Lambert Academic Publishing *'
+publication: '*Lambert Academic Publishing*'
 ---

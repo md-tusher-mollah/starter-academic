@@ -5,14 +5,14 @@ title: Hall and ion-slip effects on unsteady MHD Bingham fluid flow with suction
 subtitle: ''
 summary: ''
 authors:
-- MdT Mollah
-- MM Islam
-- MdM Alam
+- Md Tusher Mollah
+- Muhammad Minarul Islam
+- Md Mahmud Alam
 tags: []
 categories: []
 date: '2018-01-01'
-lastmod: 2021-03-19T22:58:46+01:00
-featured: true
+lastmod: 2021-03-26T22:38:35+01:00
+featured: false
 draft: false
 
 # Featured image
@@ -29,9 +29,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-19T21:58:45.901707Z'
+publishDate: '2021-03-26T21:38:34.967553Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Model Meas Control B*'
+publication: '*Modelling, Measurement and Control B*'
 ---
